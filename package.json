@@ -1,7 +1,7 @@
 {
   "name": "demo_node_hello_world",
   "version": "1.0.0",
-  "description": "",
+  "description": "demo_node_hello_world =====================",
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.4"
@@ -10,6 +10,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "anne richardson",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lortza/demo_nodejs_basics.git"
+  },
+  "keywords": [
+    "node",
+    "viking"
+  ],
+  "bugs": {
+    "url": "https://github.com/lortza/demo_nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/lortza/demo_nodejs_basics#readme"
 }
